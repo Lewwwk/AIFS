@@ -3,7 +3,7 @@ The official Krause House governance at any time can be found at this link.  Thi
 
 ---
 
-### State
+### Permissions
 #### Multisig: 4/7 Gnosis Safe
 - Commodore
 - Flex Champman
@@ -13,7 +13,7 @@ The official Krause House governance at any time can be found at this link.  Thi
 - Magnus
 - Dogstoevsky
 
-#### Snapshot Admins
+#### Snapshot Admins ("Stewards")
 Responsibility: Send community proposals to Snapshot, reject unclear or blatantly malicious proposals.
 - Commodore
 - Flex Champman
@@ -42,6 +42,17 @@ Responsibility: Send community proposals to Snapshot, reject unclear or blatantl
 - Flex Chapman
 - Mario Lopes
 - Spice Cube
+
+---
+
+### Proposal Process
+- Any NFT holder can submit a proposal to Stewards Team.
+- Stewards Team decides what proposals move to Snapshot.
+- $KRAUSE holders vote on Snapshot via token-weighted voting.
+
+### Proposal Requirements
+- Proposals must provide clear action steps to Multisig if action is needed.
+- Proposals cannot force another person to take any action unless they've opted in (ex: Can force multisig signers to take action, or a social media manager to post/remove some content.)
 
 ---
 
