@@ -3,7 +3,21 @@ The official Krause House governance at any time can be found at this link.  Thi
 
 ---
 
-### Permissions
+### Proposal Process
+- Any NFT holder can submit a proposal to Stewards Team.
+- Stewards Team decides what proposals move to Snapshot.
+- $KRAUSE holders vote on Snapshot via token-weighted voting.
+
+### Proposal Requirements
+- Proposals must provide clear action steps to Multisig if action is needed.
+- Proposals cannot force another person to take any action unless they've opted in (ex: Can force multisig signers to take action, or a social media manager to post/remove some content.)
+
+
+---
+
+### Permissions Roster
+The following is a list of permissions delegated by the DAO, and the delegates of those permissions.
+
 #### Multisig: 4/7 Gnosis Safe
 - Commodore
 - Flex Champman
@@ -43,16 +57,6 @@ Responsibility: Send community proposals to Snapshot, reject unclear or blatantl
 - Mario Lopes
 - Spice Cube
 
----
-
-### Proposal Process
-- Any NFT holder can submit a proposal to Stewards Team.
-- Stewards Team decides what proposals move to Snapshot.
-- $KRAUSE holders vote on Snapshot via token-weighted voting.
-
-### Proposal Requirements
-- Proposals must provide clear action steps to Multisig if action is needed.
-- Proposals cannot force another person to take any action unless they've opted in (ex: Can force multisig signers to take action, or a social media manager to post/remove some content.)
 
 ---
 
