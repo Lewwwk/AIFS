@@ -1,11 +1,10 @@
 # Krause House Governance State
 The official Krause House governance at any time can be found at this link.  This is updated by the community via proposal on Snapshot.
 
-[Proposals](./proposals.md)
-
-[Permissions Roster](./permissions.md)
-
-[Norms](./norms.md)
+### Table of Contents
+- [Proposals](./proposals.md)
+- [Permissions Roster](./permissions.md)
+- [Norms](./norms.md)
 
 ---
 
