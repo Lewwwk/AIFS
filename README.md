@@ -51,6 +51,7 @@ Responsibility: Send community proposals to Snapshot, reject unclear or blatantl
 #### Self Voting
 We discourage voting on proposals with direct financial benefit to oneself.  In egregious cases, the Multisig Team is encourages to reject processing transactions related to that proposal.
 
+---
 
 ### Visual Representation
 This is meant to help visualize the above state.  If there is any conflict between this visual and the state above, the state above should be considered the source of truth.
