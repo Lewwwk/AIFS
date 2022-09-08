@@ -12,6 +12,3 @@ The Stewards Team is responsible for ensuring all proposals put to vote are vali
 
 #### Guest Passes
 Guest Passes are intended to be issued to people who want to contribute, but are unable to afford an NFT.  Guest passes should be revoked when that contributor no longer needs access to do their work.
-
-#### Avoiding Single Choice Voting
-Proposals will no longer use Single Choice Voting which requires a wallet to place their entire token balance into a vote. We’ll begin to use voting strategies that allow for a wallet to allocate weighting to their vote (such as Weighted Voting). This is similar to how other prominent social DAOs such as CabinDAO reduce this issue for their communities. 
