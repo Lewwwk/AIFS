@@ -44,3 +44,8 @@ Responsibility: Send community proposals to Snapshot, reject unclear or blatantl
 
 #### Krause House IP Licensees
 (None)
+
+#### Recognized Smart Contracts
+- [$KRAUSE Token](https://etherscan.io/address/0x9f6f91078a5072a8b54695dafa2374ab3ccd603b)
+- [Geneis Edition Ticket]()
+- [NFT NYC Special Edition Tickets]()
