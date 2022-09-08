@@ -8,4 +8,4 @@ We discourage voting on proposals with direct financial benefit to oneself.  In 
 Contributors submit payout requests to Utopia, and payments are processed on the 1st and 15th.
 
 #### Proposal Vetting
-The Stewards Team is responsible for vetting proposals.  They have full jurisdiction to reject any proposal for any reason; however, they are meant to help Jerry's construct proposals whether they are for or against that proposal.  That being said, in cases where proposals appear malicious, poorly constructed, unclear, or misaligned with Krause House's priorities, they are encouraged to reject it.
+The Stewards Team is responsible for ensuring all proposals put to vote are valid.  Invalid proposals are where a proposal appears to be malicious, poorly scoped, unclear, or misaligned with Krause House's priorities. In the case of an invalid proposal, the Stewards Team has the right to withold the proposal for a vote until the proposal's faults have been resolved. A well functioning Stewards Team is helping the community turn ideas into proposals, regardless of their personal voting preference — assuming the propsal is well intended. 
