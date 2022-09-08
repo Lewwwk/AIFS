@@ -25,21 +25,22 @@ Responsibility: Send community proposals to Snapshot, reject unclear or blatantl
 - Commodore
 - Flex Chapman
 
-#### Twitter Login
-
-#### Represent KH in Negotiations
-- Commodore
-- Flex Chapman
-- Lewwwk
-- Mario Lopes
-
 #### Administer Guest Passes to Discord
 - Mario Lopes
 - Flex Chapman
 - Magnus
 
-#### Discord Admin
-- Commodore
-- Flex Chapman
-- Mario Lopes
-- Spice Cube
+#### Recognized Web / Social Accounts
+- Twitter: @krausehousedao
+- Github: Krause-House
+- Website: krausehouse.club
+
+#### Recognized Legal Entities
+- Krause House DAO (Panama) Foundation 
+- Krause House Capital (Lewwwk)
+
+#### Krause House Brand Licensees
+- Krause House Capital
+
+#### Krause House IP Licensees
+(None)
