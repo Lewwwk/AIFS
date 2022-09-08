@@ -21,6 +21,10 @@ Responsibility: Send community proposals to Snapshot, reject unclear or blatantl
 - Dogstoevsky
 - Glad Robot
 
+#### Represent KH in Negotiations
+- Commodore
+- Flex Chapman
+
 #### Twitter Login
 
 #### Represent KH in Negotiations
