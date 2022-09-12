@@ -1,6 +1,6 @@
 # Krause House Governance State
 
-The official Krause House governance at any time can be found here. This is updated by the community via proposal on Snapshot.
+The official Krause House governance at any time can be found within this repo. This is updated by the community via proposal on Snapshot.
 
 ### Table of Contents
 
