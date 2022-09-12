@@ -1,12 +1,12 @@
 # Krause House Governance State
 
-The official Krause House governance at any time can be found at this link. This is updated by the community via proposal on Snapshot.
+The official Krause House governance at any time can be found here. This is updated by the community via proposal on Snapshot.
 
 ### Table of Contents
 
 - [Permissions Roster](./permissions.md): List of powers delegated by the DAO, and the respective delegates.
 - [Norms](./norms.md): List of principles that guide the direction of the systems we build.
-- [Proposals](./proposals)
+- [Proposals](./proposals): Processes for proposals. 
 - [Intentions](./intentions.md): List of intentions we agree to rally around.
 
 #### Recognized Smart Contracts
