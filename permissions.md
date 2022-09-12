@@ -12,7 +12,7 @@
 - Magnus
 - Dogstoevsky
 
-#### Snapshot Admins ("Stewards")
+#### Snapshot Authors ("Stewards")
 
 Responsibility: Send community proposals to Snapshot, reject unclear or blatantly malicious proposals.
 
@@ -25,7 +25,15 @@ Responsibility: Send community proposals to Snapshot, reject unclear or blatantl
 - Dogstoevsky
 - Glad Robot
 
-#### Represent KH in Negotiations
+#### Snapshot Admins
+
+Responsibility: Ability to update the settings of the Snapshot space.
+
+- Commodore
+- Flex Champman
+- Spice Cube
+
+#### Represent KH in Negotiations (Acquistions)
 
 - Commodore
 - Flex Chapman
@@ -41,6 +49,7 @@ Responsibility: Send community proposals to Snapshot, reject unclear or blatantl
 - Twitter: @krausehousedao
 - Github: Krause-House
 - Website: krausehouse.club
+- Instagram: krausehouse_nba
 
 #### Krause House Brand Licensees
 
@@ -48,4 +57,5 @@ Responsibility: Send community proposals to Snapshot, reject unclear or blatantl
 
 #### Krause House IP Licensees
 
-(None)
+- MyJerry
+- Krause House Logo
