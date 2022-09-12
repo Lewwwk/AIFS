@@ -4,9 +4,10 @@ The official Krause House governance at any time can be found at this link. This
 
 ### Table of Contents
 
-- [Proposals](./proposals.md)
-- [Permissions Roster](./permissions.md)
-- [Norms](./norms.md)
+- [Permissions Roster](./permissions.md): List of powers delegated by the DAO, and the respective delegates.
+- [Norms](./norms.md): List of principles that guide the direction of the systems we build.
+- [Proposals Process](./proposals-process.md)
+- [Intentions](./intentions.md): List of intentions we agree to rally around.
 
 ### $KRAUSE Holders
 
