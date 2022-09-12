@@ -1,4 +1,18 @@
 # Norms
+
+### $KRAUSE Holders
+
+$KRAUSE represents governance weight.
+
+1. Vote on Snapshot Proposals (1 $KRAUSE = 1 vote)
+
+### Ticket (NFT) Holders
+
+Tickets represent membership.
+
+1. Access to Discord and other member platforms.
+2. Ability to submit [proposal](./proposals-process).
+
 #### Community Guidelines
 
 #### Self Voting
