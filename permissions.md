@@ -47,5 +47,5 @@ Responsibility: Send community proposals to Snapshot, reject unclear or blatantl
 
 #### Recognized Smart Contracts
 - [$KRAUSE Token](https://etherscan.io/address/0x9f6f91078a5072a8b54695dafa2374ab3ccd603b)
-- [Geneis Edition Ticket]()
-- [NFT NYC Special Edition Tickets]()
+- [Genesis Edition Tickets](https://etherscan.io/token/0xc4e0f3ec24972c75df7c716922096f4270b7bb4e)
+- [NFT NYC Special Edition Tickets](https://etherscan.io/token/0x591E13ed6C78c0dc715336947db818ddB85a6ffE)
