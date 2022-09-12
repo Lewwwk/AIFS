@@ -6,7 +6,7 @@ The official Krause House governance at any time can be found at this link. This
 
 - [Permissions Roster](./permissions.md): List of powers delegated by the DAO, and the respective delegates.
 - [Norms](./norms.md): List of principles that guide the direction of the systems we build.
-- [Proposals Process](./proposals-process.md)
+- [Proposals Process](./proposals/process)
 - [Intentions](./intentions.md): List of intentions we agree to rally around.
 
 #### Recognized Smart Contracts
