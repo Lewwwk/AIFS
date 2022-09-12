@@ -38,6 +38,11 @@ Responsibility: Ability to update the settings of the Snapshot space.
 - Commodore
 - Flex Chapman
 
+#### Discord Admins
+
+- Commodore
+- Flex Chapman
+
 #### Administer Guest Passes to Discord
 
 - Mario Lopes
