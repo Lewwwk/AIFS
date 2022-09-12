@@ -17,8 +17,8 @@ The official Krause House governance at any time can be found at this link. This
 
 #### Recognized Legal Entities
 
-- Krause House DAO (Panama) Foundation
-- Krause House Capital (Lewwwk)
+- Krause House DAO Foundation (Panama)
+- Krause House DAO Corporation (Panama)
 
 ---
 
