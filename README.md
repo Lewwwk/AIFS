@@ -9,19 +9,6 @@ The official Krause House governance at any time can be found at this link. This
 - [Proposals Process](./proposals-process.md)
 - [Intentions](./intentions.md): List of intentions we agree to rally around.
 
-### $KRAUSE Holders
-
-$KRAUSE represents governance weight.
-
-1. Vote on Snapshot Proposals (1 $KRAUSE = 1 vote)
-
-### Ticket (NFT) Holders
-
-Tickets represent membership.
-
-1. Access to Discord and other member platforms.
-2. Ability to submit [proposal](./proposals).
-
 #### Recognized Smart Contracts
 
 - [$KRAUSE Token](https://etherscan.io/address/0x9f6f91078a5072a8b54695dafa2374ab3ccd603b)
