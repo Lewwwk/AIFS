@@ -13,11 +13,11 @@ Tickets represent membership.
 1. Access to Discord and other member platforms.
 2. Ability to submit [proposal](./proposals/process.md).
 
-#### Community Guidelines
+### Community Guidelines
 
 #### Self Voting
 
-We discourage voting on proposals with direct financial benefit to oneself. In egregious cases, the Multisig Team is encourages to reject processing transactions related to that proposal.
+We discourage voting on proposals with direct financial benefit to oneself. In egregious cases, the Multisig Team is encouraged to reject processing transactions related to that proposal.
 
 #### Contributor Payout Flow
 
