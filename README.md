@@ -19,7 +19,9 @@ The official Krause House governance at any time can be found within this repo. 
 #### Recognized Legal Entities
 
 - Krause House DAO Foundation (Panama)
+  - Parent Entity
 - Krause House DAO Corporation (Panama)
+  - NFT & $KRAUSE Issuer
 
 ---
 
