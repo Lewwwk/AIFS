@@ -28,9 +28,24 @@ Stewardship team may cancel this agreement at any point.
 - 20000 $KRAUSE on Dec 1, 2022
 
 #### Full-Time Team
-- 20000 USDC to commodore.eth on 
-- 20000 USDC to flexchapman.eth on 
-- ...
+- ~~16667 USDC to commodore.eth on May 1, 2022~~
+- ~~16667 USDC to flexchapman.eth on May 1, 2022~~
+- ~~9167 USDC, 7500 $KRAUSE to mariolopes on May 1, 2022~~
+- ~~16667 USDC to commodore.eth on June 1, 2022~~
+- ~~16667 USDC to flexchapman.eth on June 1, 2022~~
+- ~~9167 USDC, 7500 $KRAUSE to mariolopes on June 1, 2022~~
+- ~~16667 USDC to commodore.eth on July 1, 2022~~
+- ~~16667 USDC to flexchapman.eth on July 1, 2022~~
+- ~~9167 USDC, 7500 $KRAUSE to mariolopes on July 1, 2022~~
+- ~~16667 USDC to commodore.eth on August 1, 2022~~
+- ~~16667 USDC to flexchapman.eth on August 1, 2022~~
+- ~~9167 USDC, 7500 $KRAUSE to mariolopes on August 1, 2022~~
+- ~~16667 USDC to commodore.eth on September 1, 2022~~
+- ~~16667 USDC to flexchapman.eth on September 1, 2022~~
+- ~~9167 USDC, 7500 $KRAUSE to mariolopes on September 1, 2022~~
+- 16667 USDC to commodore.eth on October 1, 2022
+- 16667 USDC to flexchapman.eth on October 1, 2022
+- 9167 USDC, 7500 $KRAUSE to mariolopes on October 1, 2022
 
 #### SpringHill Pitch Sprint + Partnership Process Documentation
 - 5000 USDC to ________ on _________
