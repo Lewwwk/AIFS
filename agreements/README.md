@@ -8,7 +8,13 @@
 - 12000 USDC 5000 $KRAUSE greg.eth on October 1, 2022
 - 8000 USDC 5000 $KRAUSE trik.eth October 1, 2022
 
-Contributor Grants
+#### Contributor Operations Budget v2
+- This team will not actually hold the funds directly. We will just accept payment requests in Utopia. 
+- Multisig can deny any request.
+- Multisig should deny any request outside the scope of this proposal, or anything they deem as malicious.
+- 150000 USDC Budget
+- 100000 $KRAUSE Budget
+- Brandan and Dogstoevsky must agree on allocation of budget unanimously.
 
 #### Gitcoin DEI Grant Program Sponsorship and Participation Proposal
 - 20000 USDC
