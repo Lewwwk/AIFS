@@ -1,4 +1,4 @@
-## Live Agreements
+## Current Approved Proposal Requests
 We are in the process of migrating our "source of truth".  In the case of any conflict between agreements here and Snapshot proposals that passed before 9/13/22, the Snapshot proposals should be given priority.
 
 #### Product Team
