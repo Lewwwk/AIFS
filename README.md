@@ -8,6 +8,7 @@ The official Krause House governance at any time can be found within this repo. 
 - [Norms](./norms.md): List of principles that guide the direction of the systems we build.
 - [Proposals](./proposals): Processes for proposals. 
 - [Intentions](./intentions.md): List of intentions we agree to rally around.
+- [Approvals](./approvals): Approved parameters from proposals.
 
 #### Recognized Smart Contracts
 
