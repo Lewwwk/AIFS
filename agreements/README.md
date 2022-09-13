@@ -28,6 +28,7 @@ Stewardship team may cancel this agreement at any point.
 - 20000 $KRAUSE on Dec 1, 2022
 
 #### Full-Time Team
+To receive payment, members of this team must retain 100% of their airdropped allocation of $KRAUSE balances for 2 years (as of Jan 1st, 2022) or until no longer being compensated as a full-time contributor.
 - ~~16667 USDC to commodore.eth on May 1, 2022~~
 - ~~16667 USDC to flexchapman.eth on May 1, 2022~~
 - ~~9167 USDC, 7500 $KRAUSE to mariolopes on May 1, 2022~~
