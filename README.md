@@ -13,7 +13,11 @@ The official Krause House governance at any time can be found within this repo. 
 #### Recognized Smart Contracts
 
 - [$KRAUSE Token](https://etherscan.io/address/0x9f6f91078a5072a8b54695dafa2374ab3ccd603b)
-- [Genesis Edition Tickets](https://etherscan.io/token/0xc4e0f3ec24972c75df7c716922096f4270b7bb4e)
+- [Genesis Edition Tickets v1](https://etherscan.io/token/0xc4e0f3ec24972c75df7c716922096f4270b7bb4e)
+- [Genesis Edition Tickets v2](https://etherscan.io/token/0xAD87C7EF60519ee9F30F56eb758512321F085bd2)
+  - Upper Level: 1504
+  - Club Level: 2665
+  - Courtside: 1872
 - [NFT NYC Special Edition Tickets](https://etherscan.io/token/0x591E13ed6C78c0dc715336947db818ddB85a6ffE)
 
 #### Recognized Legal Entities
