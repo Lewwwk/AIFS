@@ -33,7 +33,7 @@ Responsibility: Ability to update the settings of the Snapshot space.
 - Flex Champman
 - Spice Cube
 
-#### Represent KH in Negotiations (Acquistions)
+#### Represent KH in Negotiations (Acquisitions)
 
 - Commodore
 - Flex Chapman
@@ -64,3 +64,13 @@ Responsibility: Ability to update the settings of the Snapshot space.
 
 - MyJerry
 - Krause House Logo
+
+#### NBA Ambassadors & Partnerships Team
+
+- Mario Lopes#2725
+- flexchapman#5934
+- dbag#3251
+- Jonezin#4223
+- itsunclejon#7365
+- crabtree#1085
+- AlxBrands#0394
