@@ -30,3 +30,7 @@ The Stewards Team is responsible for ensuring all proposals put to vote are vali
 #### Guest Passes
 
 Guest Passes are intended to be issued to people who want to contribute, but are unable to afford an NFT. Guest passes should be revoked when that contributor no longer needs access to do their work.
+
+#### Intellectual Property
+
+Krause House DAO owns 100% of the IP for any of the projects that paid contributors have initiated and/or delivered.
