@@ -65,3 +65,9 @@ To receive payment, members of this team must retain 100% of their airdropped al
 #### NBA Ambassadors & Partnerships Budget
 
 - 200,000 $KRAUSE to NBA Ambassadors & Partnerships Team on October 1, 2022
+
+#### Lewwwk Contributor Funding Request - Capital Coordination
+
+- 7,500 USDC 7,500 $KRAUSE igniter.eth on September 30, 2022
+- 7,500 USDC 7,500 $KRAUSE igniter.eth on October 31, 2022
+- 7,500 USDC 7,500 $KRAUSE igniter.eth on November 30, 2022
