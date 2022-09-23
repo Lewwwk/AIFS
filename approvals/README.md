@@ -56,3 +56,8 @@ To receive payment, members of this team must retain 100% of their airdropped al
 - $7,500 USDC upfront funding to `0xeFD9740AEBfF6039322A02206e8266F70DEc10ee`
 - 3500 $KRAUSE
 - Crabtree will submit receipts.
+
+#### Uncle Jon & The Pig Pen Podcast
+
+- 4,000 USDC to 0xA2143248676122B8D8542F7Fe81CfF798fF58Fbc on September 25, 2022
+- 6,000 USDC to 0xA2143248676122B8D8542F7Fe81CfF798fF58Fbc upon completion
