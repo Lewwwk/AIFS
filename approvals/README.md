@@ -71,3 +71,7 @@ To receive payment, members of this team must retain 100% of their airdropped al
 - 7,500 USDC 7,500 $KRAUSE igniter.eth on September 30, 2022
 - 7,500 USDC 7,500 $KRAUSE igniter.eth on October 31, 2022
 - 7,500 USDC 7,500 $KRAUSE igniter.eth on November 30, 2022
+
+#### Roadmapping the Future of Sport - Token Swap
+
+- 15,000 $KRAUSE 0x731c837121C15e1e7e3cfc0E2588f4d0B35FdD48 on October 1, 2022
