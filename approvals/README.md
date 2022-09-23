@@ -61,3 +61,7 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 - 4,000 USDC to 0xA2143248676122B8D8542F7Fe81CfF798fF58Fbc on September 25, 2022
 - 6,000 USDC to 0xA2143248676122B8D8542F7Fe81CfF798fF58Fbc upon completion
+
+#### NBA Ambassadors & Partnerships Budget
+
+- 200,000 $KRAUSE to NBA Ambassadors & Partnerships Team on October 1, 2022
