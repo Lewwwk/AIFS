@@ -79,3 +79,11 @@ To receive payment, members of this team must retain 100% of their airdropped al
 #### Project Philippines Court
 
 12,000 USDC Funds should be managed on a 2/3 multi-sig by Uncle Jon, Dbag, Mario Lopes, Glad Robot & Flex Chapman on September 27, 2022
+
+#### Bounty Budget - Researching Future Investment Opportunities Through Collective Intelligence
+
+10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on September 25, 2022
+
+10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on November 1, 2022
+
+10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on December 1, 2022
