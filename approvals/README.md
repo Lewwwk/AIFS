@@ -75,3 +75,7 @@ To receive payment, members of this team must retain 100% of their airdropped al
 #### Roadmapping the Future of Sport - Token Swap
 
 - 15,000 $KRAUSE 0x731c837121C15e1e7e3cfc0E2588f4d0B35FdD48 on October 1, 2022
+
+#### Project Philippines Court
+
+12,000 USDC Funds should be managed on a 2/3 multi-sig by Uncle Jon, Dbag, Mario Lopes, Glad Robot & Flex Chapman on September 27, 2022
