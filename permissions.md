@@ -1,76 +1,16 @@
-# Permissions Roster
+# Permissions Register
 
-### The following is a list of permissions delegated by the DAO, and the delegates assigned those permissions.
+The following is a list of permissions delegated by the DAO, and the delegates assigned those permissions.
 
-#### Multisig: 4/7 Gnosis Safe
+### Assets
+- Wallet: [@Lewwwk](https://twitter.com/Lewwwk) - Private Key Holder
+- Domain (allinforsport.org): [@Lewwwk](https://twitter.com/Lewwwk)
+- Website [allinforsport.ju.mp](https://allinforsport.ju.mp) (hosted on carrd.co): [@Lewwwk](https://twitter.com/Lewwwk)
 
-- Commodore
-- Flex Champman
-- Mario Lopes
-- Spice Cube
-- Lewwwwk
-- Magnus
-- Dogstoevsky
+### Tooling
+- AIFS State Repository: [@Lewwwk](https://twitter.com/Lewwwk) - Host
+- Lu.ma Admin: [@Lewwwk](https://twitter.com/Lewwwk)
 
-#### Snapshot Authors ("Stewards")
-
-Responsibility: Send community proposals to Snapshot, reject unclear or blatantly malicious proposals.
-
-- Commodore
-- Flex Champman
-- Mario Lopes
-- Spice Cube
-- Lewwwwk
-- Magnus
-- Dogstoevsky
-- Glad Robot
-
-#### Snapshot Admins
-
-Responsibility: Ability to update the settings of the Snapshot space.
-
-- Commodore
-- Flex Champman
-- Spice Cube
-
-#### Represent KH in Negotiations (Acquisitions)
-
-- Commodore
-- Flex Chapman
-
-#### Discord Admins
-
-- Commodore
-- Flex Chapman
-
-#### Administer Guest Passes to Discord
-
-- Mario Lopes
-- Flex Chapman
-- Magnus
-
-#### Recognized Web / Social Accounts
-
-- Twitter: @krausehousedao
-- Github: Krause-House
-- Website: krausehouse.club
-- Instagram: krausehouse_nba
-
-#### Krause House Brand Licensees
-
-- Krause House Capital
-
-#### Krause House IP Licensees
-
-- MyJerry
-- Krause House Logo
-
-#### NBA Ambassadors & Partnerships Team
-
-- Mario Lopes#2725
-- flexchapman#5934
-- dbag#3251
-- Jonezin#4223
-- itsunclejon#7365
-- crabtree#1085
-- AlxBrands#0394
+### Socials
+- Twitter Account [@AllInForSport](https://twitter.com/allinforsport): [@Lewwwk](https://twitter.com/Lewwwk) - Owner
+- Telegram Group: [@ItsUncleJon](https://twitter.com/itsunclejon) - Admin

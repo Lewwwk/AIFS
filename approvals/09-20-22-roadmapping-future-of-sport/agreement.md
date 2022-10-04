@@ -1,7 +1,0 @@
-## Agreement
-
-#### October 1, 2022
-
-15,000 $KRAUSE
-0x731c837121C15e1e7e3cfc0E2588f4d0B35FdD48
-
