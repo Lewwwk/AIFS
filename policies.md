@@ -34,7 +34,7 @@ Fist to Five Voting is a simple voting mechanism to provide more nuanced express
 - Fist - 'This proposal is not safe to try.'
 - One - 'I strongly object to this proposal as written.'
 - Two - 'I have concerns that need to be heard.'
-- Three - 'I have concerns or improvements, but could probably live with it.'
+- Three - 'I have concerns or improvements, but could live with it.'
 - Four - 'I support this proposal and think it could be improved.'
 - Five - 'I completely support this proposal as written.'
 
